@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = CapybaraWysihtml5::VERSION
   spec.authors       = ["Miles Z. Sterrett"]
   spec.email         = ["miles@mileszs.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Interact with wysihtml5 text areas with capyabara}
+  spec.summary       = %q{Interact with wysihtml5 text areas with capyabara}
   spec.homepage      = ""
   spec.license       = "MIT"
 
